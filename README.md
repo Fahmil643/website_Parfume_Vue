@@ -10,4 +10,5 @@ cara penggunaan install diterminal mu:
 1. npm create vite
 2. npm init
 3. install vite
-4. install tailwinds 
+4. install tailwinds
+5. install vue router
